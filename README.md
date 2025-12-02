@@ -98,7 +98,7 @@ mostro(dragonBlanco, 8, luz, 3000).
 
 ### Listar todos los mostros
 ```prolog
-listarMostros.
+?- listarMostros.
 
 ```
 ### Ejemplo de Ejecución
