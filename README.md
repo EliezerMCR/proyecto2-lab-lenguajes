@@ -9,8 +9,8 @@
 - **Nombre:** Eliezer Cario
   **Carnet:** 18-10605
 
-- **Nombre:** Angel
-  **Carnet:** 
+- **Nombre:** Angel Rodriguez
+  **Carnet:** 15-11669
 
 ## Descripción del Proyecto
 
@@ -95,9 +95,13 @@ swipl -s mundo_chiquito.pl
 Luego seguir las instrucciones e ingresar el mostro en formato:
 ```prolog
 mostro(dragonBlanco, 8, luz, 3000).
-```
 
-## Ejemplo de Ejecución
+### Listar todos los mostros
+```prolog
+listarMostros.
+
+```
+### Ejemplo de Ejecución
 
 Con los mostros de ejemplo:
 ```prolog
